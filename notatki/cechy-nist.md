@@ -1,0 +1,5 @@
+1. Samoobsługa na żądanie (On-demand self-service): Użytkownik może samodzielnie i automatycznie zamawiać oraz uruchamiać zasoby obliczeniowe (takie jak dyski czy serwery) w dowolnym momencie, bez potrzeby kontaktu z dostawcą.
+2. Szeroki dostęp sieciowy (Broad network access): Usługi chmurowe są dostępne z każdego miejsca na świecie i za pomocą dowolnego urządzenia podłączonego do Internetu, na przykład smartfona, tabletu czy laptopa.
+3. Wspólna pula zasobów (Resource pooling): Dostawca chmury dynamicznie przydziela fizyczne zasoby sprzętowe wielu różnym użytkownikom z jednej, ogromnej i współdzielonej puli, zachowując przy tym pełną izolację danych.
+4. Szybka elastyczność (Rapid elasticity): Zasoby mogą być błyskawicznie powiększane lub zmniejszane w zależności od aktualnego obciążenia, co pozwala na idealne dopasowanie pojemności serwerów do bieżących potrzeb.
+5. Usługa mierzona (Measured service): Zużycie wszelkich zasobów (mocy procesora, pamięci, transferu) jest stale monitorowane i precyzyjnie mierzone, dzięki czemu klient płaci dokładnie za to, co faktycznie wykorzystał.
